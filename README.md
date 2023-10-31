@@ -1,7 +1,7 @@
 # LLMs Playground
 
 ## 1. Meta LLAMA 2 Fine Tuning for Text Generation
-- Code Repository [GitHub](https://github.com/akashmathur-2212/LLMs/tree/main)
+- Code Repository [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/meta_llama_2finetuned_text_generation_summarization)
 
 ## 2. Deploying LLMs: Serverless Magic with Lambda, SageMaker DLC, and API Gateway.
 - Read more about it on [Medium](https://medium.com/@akash-mathur/deploying-llms-serverless-magic-with-lambda-sagemaker-dlc-and-api-gateway-1bf99517d43e)
