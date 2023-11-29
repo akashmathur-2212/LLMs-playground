@@ -8,7 +8,7 @@ from langchain.chains import ConversationalRetrievalChain
 import sys
 
 DB_FAISS_PATH = "vectorstore/db_faiss"
-loader = CSVLoader(file_path="data/2019.csv", encoding="utf-8", csv_args={'delimiter': ','})
+loader = CSVLoader(file_path="data/loan_default.csv", encoding="utf-8", csv_args={'delimiter': ','})
 data = loader.load()
 print(data)
 
@@ -26,13 +26,6 @@ docsearch = FAISS.from_documents(text_chunks, embeddings)
 
 docsearch.save_local(DB_FAISS_PATH)
 
-
-#query = "What is the value of GDP per capita of Finland provided in the data?"
-
-#docs = docsearch.similarity_search(query, k=3)
-
-#print("Result", docs)
-
 llm = CTransformers(model="models/llama-2-7b-chat.ggmlv3.q4_0.bin",
                     model_type="llama",
                     max_new_tokens=512,
@@ -42,7 +35,7 @@ qa = ConversationalRetrievalChain.from_llm(llm, retriever=docsearch.as_retriever
 
 while True:
     chat_history = []
-    #query = "What is the value of  GDP per capita of Finland provided in the data?"
+    #query = "What is the perentage of default loans?"
     query = input(f"Input Prompt: ")
     if query == 'exit':
         print('Exiting')
