@@ -25,7 +25,7 @@ To install this Chat App, please follow these steps:
 
 3. Obtain your HuggingFace Token and add it to the .env file in the project directory.
 
-   ```HUGGING_FACE_TOKEN=your_secrit_api_key```
+   ```HUGGING_FACE_TOKEN=your_secret_token```
 
 # Usage
 To use this App, follow these steps:
