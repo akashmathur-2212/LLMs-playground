@@ -7,3 +7,4 @@ transformers
 sentence_transformers
 InstructorEmbedding
 chromadb
+streamlit
