@@ -11,17 +11,15 @@ import os
 import tempfile
 
 
-
-
 def initialize_session_state():
     if 'history' not in st.session_state:
         st.session_state['history'] = []
 
     if 'generated' not in st.session_state:
-        st.session_state['generated'] = ["Hello! Ask me anything about 🤗"]
+        st.session_state['generated'] = ["Hello! Ask me anything!"]
 
     if 'past' not in st.session_state:
-        st.session_state['past'] = ["Hey! 👋"]
+        st.session_state['past'] = ["Hey!"]
 
 def conversation_chat(query, chain, history):
     result = chain({"question": query, "chat_history": history})
