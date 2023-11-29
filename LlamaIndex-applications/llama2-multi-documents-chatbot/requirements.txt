@@ -1,0 +1,9 @@
+langchain
+llama-index
+llama-hub
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+InstructorEmbedding
+chromadb
