@@ -10,3 +10,6 @@
 ## 3. Comprehensive Guide to Customize your Llama2 ChatBot using LlamaIndex and Streamlit.
 - Read more about it on [Medium](https://akash-mathur.medium.com/comprehensive-guide-to-customize-your-llama2-chatbot-with-llamaindex-and-streamlit-76bbd041eafc)
 - Code Repository [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/llama2-multi-documents-chatbot)
+
+## 4. Mistral-7B-Instruct Based ChatBot using LangChain and Streamlit.
+- Code Repository [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/mistral_7B-multiPDF-chatbot)
