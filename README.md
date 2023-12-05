@@ -15,6 +15,6 @@
 | Meta LLAMA 2 Fine Tuning for Text Generation | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/meta_llama_2finetuned_text_generation_summarization) |
 
 # Deploying LLMs
-| Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |
+| Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |  
 | ------------- | ------------- | ------------- |
 | Serverless Magic with Lambda, SageMaker DLC, and API Gateway | [🔗](https://medium.com/@akash-mathur/deploying-llms-serverless-magic-with-lambda-sagemaker-dlc-and-api-gateway-1bf99517d43e)  | [🔗](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/LLM-Endpoint-Deployment-Inference)|
