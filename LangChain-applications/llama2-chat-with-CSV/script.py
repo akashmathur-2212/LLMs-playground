@@ -5,7 +5,7 @@ from langchain.vectorstores import FAISS
 from langchain.llms import CTransformers
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
-import sys    
+import sys     
 
 DB_FAISS_PATH = "vectorstore/db_faiss"
 loader = CSVLoader(file_path="data/loan_default.csv", encoding="utf-8", csv_args={'delimiter': ','})
