@@ -10,5 +10,6 @@
 - 📅 Version: 1.x
 - 📜 License: This project is licensed under the Apache-2.0 license
 
-# Open Request 
-Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
+## *Explore, Appreciate, and Give the Repository a Shining ⭐*
+*Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉*
+
