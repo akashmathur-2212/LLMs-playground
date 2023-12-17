@@ -20,3 +20,5 @@
 | Quickstart with LangChain |   | [🔗](https://github.com/akashmathur-2212/LLMs-playground/blob/main/LangChain-applications/Mastering-Langchain/langchain-quickstart-with-llama2.ipynb) |
 | Summarization Strategies |   | [🔗](https://github.com/akashmathur-2212/LLMs-playground/blob/main/LangChain-applications/Mastering-Langchain/summarization-strategies-using-langchain.ipynb) |
 
+## *Explore, Appreciate, and Give the Repository a Shining ⭐*
+Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
