@@ -11,10 +11,7 @@ from streamlit_chat import message
 import tempfile
 
 def main():
-  st.title("☔ ☔Chat with CSV using Llama2 ☔ ☔")
-  st.markdown("Built by ♻️ CSVQConnect ♻️ ", unsafe_allow_html=True)
-  # Your background image URL goes here
-  #background_image_url = 'https://www.bing.com/images/search?view=detailV2&ccid=lFAWXtbv&id=BB57AC3541361FF3844CAA706B667014CB515B92&thid=OIP.lFAWXtbvpchf66BryfJQ1QHaE8&mediaurl=https%3a%2f%2fimage.freepik.com%2ffree-photo%2ftwo-llamas-andean-highland-bolivia_107467-2006.jpg&exph=418&expw=626&q=llama2+image&simid=608011097331751957&FORM=IRPRST&ck=F66D65F1AFAAA4BBCF9986ADF8ED1643&selectedIndex=4'
+  st.title("Chat with CSV using Llama2 ")
   background_image_path = 'llama-image.jpg'
   # Set the background image and color
 
