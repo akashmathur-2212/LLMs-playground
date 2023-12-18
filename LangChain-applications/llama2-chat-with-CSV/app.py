@@ -4,7 +4,7 @@ from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
 from langchain.llms import CTransformers
 from langchain.memory import ConversationBufferMemory
-from langchain.chains import ConversationalRetrievalChain   
+from langchain.chains import ConversationalRetrievalChain    
 import sys
 import streamlit as st
 from streamlit_chat import message
