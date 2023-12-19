@@ -7,7 +7,7 @@
 | Mistral-7B-Instruct Based Multi-PDFs ChatBot using LangChain and Streamlit | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/mistral_7B-multiPDF-chatbot) |
 | Llama2-7B Based CSV ChatBot using LangChain | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/llama2-chat-with-CSV) |
 | Elevating Mistral-7B’s Performance through Finetuning using QLoRA | [🔗](https://akash-mathur.medium.com/elevating-mistral-7bs-performance-through-qlora-b2504cf7c2fe) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/mistral-finetune-using-LoRA) |
-| Meta LLAMA 2 Fine Tuning for Text Generation | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/meta_llama_2finetuned_text_generation_summarization) |
+| T5 Fine Tuning & Evaluation for Text Summarization | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/finetuned-text-summarizer) |
 
 ## Deploying LLMs
 | Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |  
