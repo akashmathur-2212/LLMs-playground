@@ -5,3 +5,6 @@
 
 ## 2. Llama2-7B Based CSV ChatBot using LangChain.
 - Code Repository [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/llama2-chat-with-CSV)
+
+## 3. Falcon Based Video Summarization using Langchain.
+- Code Repository [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/Video-Summarization-Langchain )
