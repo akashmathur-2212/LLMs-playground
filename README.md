@@ -10,6 +10,12 @@
 | T5 Fine Tuning & Evaluation for Text Summarization | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/finetuned-text-summarizer) |
 | Falcon-7B Based Video Summarization using Langchain | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/Video-Summarization-Langchain) |
 
+### Advanced RAG using LangChain & LlamaIndex
+| Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |
+| ------------- | ------------- | ------------- |
+| Optimizing Retrieval with Additional Context & MetaData using LlamaIndex🦙 | [🔗](https://akash-mathur.medium.com/advanced-rag-optimizing-retrieval-with-additional-context-metadata-using-llamaindex-aeaa32d7aa2f) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/parent_child_document_retriever) |
+
+
 ## Deploying LLMs
 | Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |  
 | ------------- | ------------- | ------------- |
