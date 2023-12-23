@@ -17,7 +17,7 @@
 | Optimizing Retrieval with Additional Context & MetaData using LlamaIndex🦙 | [🔗](https://akash-mathur.medium.com/advanced-rag-optimizing-retrieval-with-additional-context-metadata-using-llamaindex-aeaa32d7aa2f) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/parent_child_document_retriever) |
 
 
-## 2. Deploying LLMs
+## 2. Deploying LLMs ☁️
 | Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |  
 | ------------- | ------------- | ------------- |
 | Serverless Magic with Lambda, SageMaker DLC, and API Gateway | [🔗](https://medium.com/@akash-mathur/deploying-llms-serverless-magic-with-lambda-sagemaker-dlc-and-api-gateway-1bf99517d43e)  | [🔗](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/LLM-Endpoint-Deployment-Inference)|
