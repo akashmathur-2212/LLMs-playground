@@ -8,7 +8,8 @@
 | Llama2-7B Based CSV ChatBot using LangChain | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/llama2-chat-with-CSV) |
 | Elevating Mistral-7B’s Performance through Finetuning using QLoRA | [🔗](https://akash-mathur.medium.com/elevating-mistral-7bs-performance-through-qlora-b2504cf7c2fe) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/mistral-finetune-using-LoRA) |
 | T5 Fine Tuning & Evaluation for Text Summarization | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/finetuned-text-summarizer) |
-| Falcon-7B Based Video Summarization using Langchain | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/Video-Summarization-Langchain) |
+| Falcon-7B Based Video 🎬 Summarization using Langchain | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/Video-Summarization-Langchain) |
+| 🎵 Audio Generation 🎹 using Audio Craft | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/AI-Audio-Generation) |
 
 ### 1.1 Advanced RAG
 | Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |
