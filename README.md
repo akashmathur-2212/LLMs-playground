@@ -21,6 +21,7 @@
 | Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |  
 | ------------- | ------------- | ------------- |
 | Serverless Magic with Lambda, SageMaker DLC, and API Gateway | [🔗](https://medium.com/@akash-mathur/deploying-llms-serverless-magic-with-lambda-sagemaker-dlc-and-api-gateway-1bf99517d43e)  | [🔗](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/LLM-Endpoint-Deployment-Inference)|
+| Vector Indexing and ANN using FAISS with AWS Serverless Architecture | [🔗](https://akash-mathur.medium.com/unlocking-faiss-for-efficient-search-vector-indexing-and-ann-with-serverless-architecture-5b2b59ead20f)  | [🔗](https://github.com/akashmathur-2212/Recommendation-System-Playground/tree/main/faiss-similarity-search)|
 
 ## 3. Experimenting with LangChain🦜️
 | Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository  |
