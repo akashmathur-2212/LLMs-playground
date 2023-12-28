@@ -1,4 +1,4 @@
-# Advanced RAG Concepts using LlamaIndex🦙
+# Advanced RAG Concepts using LlamaIndex🦙 
 
 ## 1. Optimizing Retrieval with Additional Context & MetaData
 - Read more about it on [Medium](https://akash-mathur.medium.com/advanced-rag-optimizing-retrieval-with-additional-context-metadata-using-llamaindex-aeaa32d7aa2f)
