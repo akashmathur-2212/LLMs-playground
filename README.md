@@ -15,6 +15,7 @@
 | Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |
 | ------------- | ------------- | ------------- |
 | Optimizing Retrieval with Additional Context & MetaData using LlamaIndex🦙 | [🔗](https://akash-mathur.medium.com/advanced-rag-optimizing-retrieval-with-additional-context-metadata-using-llamaindex-aeaa32d7aa2f) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/parent_child_document_retriever) |
+| Enhancing Retrieval Efficiency through Evaluating Reranker Models using LlamaIndex🦙 | [🔗](https://akash-mathur.medium.com/advanced-rag-enhancing-retrieval-efficiency-through-evaluating-reranker-models-using-llamaindex-3f104f24607e) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/reranker_models_evaluation) |
 
 
 ## 2. Deploying LLMs ☁️
