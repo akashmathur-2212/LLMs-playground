@@ -1,22 +1,25 @@
 # LLMs Playground
 
-## 1. Conversational AI with LLM Fine-Tuning and RAG using LangChain🦜️ & LlamaIndex🦙
+## 1. Conversational AI (Chatbot 🤖) with RAG using LangChain🦜️ & LlamaIndex🦙
 | Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |
 | ------------- | ------------- | ------------- |
 | Comprehensive Guide to Customize your Llama2 ChatBot using LlamaIndex and Streamlit | [🔗](https://akash-mathur.medium.com/comprehensive-guide-to-customize-your-llama2-chatbot-with-llamaindex-and-streamlit-76bbd041eafc) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/llama2-multi-documents-chatbot)|
 | Mistral-7B-Instruct Based Multi-PDFs ChatBot using LangChain and Streamlit | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/mistral_7B-multiPDF-chatbot) |
 | Llama2-7B Based CSV ChatBot using LangChain | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/llama2-chat-with-CSV) |
-| Elevating Mistral-7B’s Performance through Finetuning using QLoRA | [🔗](https://akash-mathur.medium.com/elevating-mistral-7bs-performance-through-qlora-b2504cf7c2fe) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/mistral-finetune-using-LoRA) |
-| T5 Fine Tuning & Evaluation for Text Summarization | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/finetuned-text-summarizer) |
-| Falcon-7B Based Video 🎬 Summarization using Langchain | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/Video-Summarization-Langchain) |
-| 🎵 Audio Generation 🎹 using Audio Craft | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/AI-Audio-Generation) |
 
-### 1.1 Advanced RAG 📚📒
+## 2. Advanced RAG 📚📒
 | Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |
 | ------------- | ------------- | ------------- |
 | Optimizing Retrieval with Additional Context & MetaData using LlamaIndex🦙 | [🔗](https://akash-mathur.medium.com/advanced-rag-optimizing-retrieval-with-additional-context-metadata-using-llamaindex-aeaa32d7aa2f) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/parent_child_document_retriever) |
 | Enhancing Retrieval Efficiency through Evaluating Reranker Models using LlamaIndex🦙 | [🔗](https://akash-mathur.medium.com/advanced-rag-enhancing-retrieval-efficiency-through-evaluating-reranker-models-using-llamaindex-3f104f24607e) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/reranker_models_evaluation) |
 
+## 3. LLM Fine Tuning 🧠 and Applications 💡
+| Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |
+| ------------- | ------------- | ------------- |
+| Elevating Mistral-7B’s Performance through Finetuning using QLoRA | [🔗](https://akash-mathur.medium.com/elevating-mistral-7bs-performance-through-qlora-b2504cf7c2fe) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/mistral-finetune-using-LoRA) |
+| T5 Fine Tuning & Evaluation for Text Summarization | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/finetuned-text-summarizer) |
+| Falcon-7B Based Video 🎬 Summarization using Langchain | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/Video-Summarization-Langchain) |
+| 🎵 Audio Generation 🎹 using Audio Craft | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/AI-Audio-Generation) |
 
 ## 2. Deploying LLMs ☁️
 | Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |  
