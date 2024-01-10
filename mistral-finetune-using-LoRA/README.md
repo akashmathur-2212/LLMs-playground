@@ -1,4 +1,4 @@
-# Mistral-7B’s Finetuning using QLoRA  
+# Mistral-7B’s Finetuning using QLoRA 
 
 In this notebook and tutorial, we will fine-tune the Mistral 7B model — which outperforms Llama 2 13B on all tested benchmarks.
 
