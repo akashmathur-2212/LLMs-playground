@@ -11,3 +11,7 @@
 ## 3. Query Augmentation for Next-Level Search
 - Read more about it on [Medium](https://medium.com/@akash-mathur/advanced-rag-query-augmentation-for-next-level-search-using-llamaindex-d362fed7ecc3)
 - Code Repository [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/advanced_query_transformations)
+
+## 4. Smart Tracking and Debugging of Document Changes
+- Read more about it on [Medium](https://akash-mathur.medium.com/data-management-in-llamaindex-smart-tracking-and-debugging-of-document-changes-7b81c304382b)
+- Code Repository [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/document_tracking_debugging)
