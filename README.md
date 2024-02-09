@@ -6,6 +6,7 @@
 | Comprehensive Guide to Customize your Llama2 ChatBot using LlamaIndex and Streamlit | [🔗](https://akash-mathur.medium.com/comprehensive-guide-to-customize-your-llama2-chatbot-with-llamaindex-and-streamlit-76bbd041eafc) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/llama2-multi-documents-chatbot)|
 | Mistral-7B-Instruct Based Multi-PDFs ChatBot using LangChain and Streamlit | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/mistral_7B-multiPDF-chatbot) |
 | Llama2-7B Based CSV ChatBot using LangChain | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/llama2-chat-with-CSV) |
+| Simple RAG using AWS Bedrock | | [🔗](https://github.com/akashmathur-2212/GenAI_with_AWS_Bedrock/tree/main) |
 
 ## 2. Advanced RAG 📚📒
 | Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |
