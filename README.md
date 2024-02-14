@@ -1,6 +1,6 @@
 # Generative AI Applications using LLMs
 
-## 1. Conversational AI (Chatbot🤖) with RAG using LangChain🦜️ & LlamaIndex🦙     
+## 1. Conversational AI (Chatbot🤖) with RAG using LangChain🦜️ & LlamaIndex🦙      
 | Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |
 | ------------- | ------------- | ------------- |
 | Comprehensive Guide to Customize your Llama2 ChatBot using LlamaIndex and Streamlit | [🔗](https://akash-mathur.medium.com/comprehensive-guide-to-customize-your-llama2-chatbot-with-llamaindex-and-streamlit-76bbd041eafc) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/llama2-multi-documents-chatbot)|
