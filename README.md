@@ -1,4 +1,4 @@
-# Generative AI Applications using LLMs 
+# Generative AI Applications using LLMs
 
 ## 1. Conversational AI (Chatbot🤖) with RAG using LangChain🦜️ & LlamaIndex🦙
 | Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |
