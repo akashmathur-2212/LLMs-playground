@@ -25,10 +25,11 @@
 | Falcon-7B Based Video 🎬 Summarization using Langchain | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/Video-Summarization-Langchain) |
 | 🎵 Audio Generation 🎹 using Audio Craft | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/AI-Audio-Generation) |
 
-## 2. Deploying LLMs ☁️
+## 2. Serving & Deployment ☁️
 | Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |  
 | ------------- | ------------- | ------------- |
 | Serverless Magic with Lambda, SageMaker DLC, and API Gateway | [🔗](https://medium.com/@akash-mathur/deploying-llms-serverless-magic-with-lambda-sagemaker-dlc-and-api-gateway-1bf99517d43e)  | [🔗](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/LLM-Endpoint-Deployment-Inference)|
+| Deploy a Serverless ML Inference using FastAPI, AWS Lambda, and API Gateway | [🔗](https://akash-mathur.medium.com/deploy-a-serverless-ml-inference-using-fastapi-aws-lambda-and-api-gateway-32b0b9a40236)  | [🔗](https://github.com/akashmathur-2212/Serverless-Deployment-Using-FastAPI-AWS)|
 | Vector Indexing and ANN using FAISS with AWS Serverless Architecture | [🔗](https://akash-mathur.medium.com/unlocking-faiss-for-efficient-search-vector-indexing-and-ann-with-serverless-architecture-5b2b59ead20f)  | [🔗](https://github.com/akashmathur-2212/Recommendation-System-Playground/tree/main/faiss-similarity-search)|
 
 ## 3. Experimenting with LangChain🦜️
