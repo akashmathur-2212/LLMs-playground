@@ -17,7 +17,7 @@
 | Smart Tracking and Debugging of Document Changes using LlamaIndex🦙 | [🔗](https://akash-mathur.medium.com/data-management-in-llamaindex-smart-tracking-and-debugging-of-document-changes-7b81c304382b) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/document_tracking_debugging) |
 
 
-## 3. LLM Fine Tuning 🧠 and Applications 💡
+## 3. Multimodal LLM Applications 💡
 | Title         | [Medium](https://medium.com/@akash-mathur) Article |  Repository   |
 | ------------- | ------------- | ------------- |
 | Elevating Mistral-7B’s Performance through Finetuning using QLoRA | [🔗](https://akash-mathur.medium.com/elevating-mistral-7bs-performance-through-qlora-b2504cf7c2fe) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/mistral-finetune-using-LoRA) |
